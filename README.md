@@ -1,1 +1,1 @@
-# nscj
+Suduko solver
